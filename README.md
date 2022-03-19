@@ -1,4 +1,4 @@
-# \[Group name\]
+# \[TESTNAME\]
 
 **Group members:**
 - A
